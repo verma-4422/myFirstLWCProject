@@ -1,0 +1,587 @@
+{
+  "C:\\Testing\\myFirstLWCProject\\force-app": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app",
+    "isDirectory": true,
+    "modifiedTime": 1627346891660,
+    "changeTime": 1627346891660,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "u",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main",
+    "isDirectory": true,
+    "modifiedTime": 1627346891664,
+    "changeTime": 1627346891664,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1627348931580,
+    "changeTime": 1627348931580,
+    "contentHash": "4a3d8a5dfa1348604577962bb78ca54cf605b86b",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\applications": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\applications",
+    "isDirectory": true,
+    "modifiedTime": 1627346891664,
+    "changeTime": 1627346891664,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\aura": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\aura",
+    "isDirectory": true,
+    "modifiedTime": 1627346891909,
+    "changeTime": 1627346891909,
+    "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\classes": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\classes",
+    "isDirectory": true,
+    "modifiedTime": 1627465877028,
+    "changeTime": 1627465877028,
+    "contentHash": "8801e468d18a52367723d74e5ca16e49f53df9f5",
+    "state": "u",
+    "package": "force-app",
+    "deferContentHash": true
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\contentassets": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\contentassets",
+    "isDirectory": true,
+    "modifiedTime": 1627346891665,
+    "changeTime": 1627346891665,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\flexipages": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\flexipages",
+    "isDirectory": true,
+    "modifiedTime": 1627346891665,
+    "changeTime": 1627346891665,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\layouts": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\layouts",
+    "isDirectory": true,
+    "modifiedTime": 1627346891665,
+    "changeTime": 1627346891665,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc",
+    "isDirectory": true,
+    "modifiedTime": 1627466273920,
+    "changeTime": 1627466273920,
+    "contentHash": "33ffb440dc440b5fdec2ec6223b7eb063b43d672",
+    "state": "u",
+    "package": "force-app",
+    "deferContentHash": true
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\myFirstLWC": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\myFirstLWC",
+    "isDirectory": true,
+    "modifiedTime": 1627349109244,
+    "changeTime": 1627349109244,
+    "contentHash": "ea5d98d41b9e9ff47144a7a60588ea749cdb999d",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\myFirstLWC\\myFirstLWC.css": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\myFirstLWC\\myFirstLWC.css",
+    "size": 299,
+    "modifiedTime": 1627349121093,
+    "changeTime": 1627349121093,
+    "contentHash": "4f8b20445b6542e479eefeceb88e744628d47019",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\myFirstLWC\\myFirstLWC.html": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\myFirstLWC\\myFirstLWC.html",
+    "size": 1068,
+    "modifiedTime": 1627350617976,
+    "changeTime": 1627350617976,
+    "contentHash": "5a05c6bfd17272bb78973dfb517ea738c8835da4",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\myFirstLWC\\myFirstLWC.js": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\myFirstLWC\\myFirstLWC.js",
+    "size": 100,
+    "modifiedTime": 1627348157188,
+    "changeTime": 1627348157188,
+    "contentHash": "d04d61261cb41df72b03b9afe9c1005e6511d399",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\myFirstLWC\\myFirstLWC.js-meta.xml": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\myFirstLWC\\myFirstLWC.js-meta.xml",
+    "size": 372,
+    "modifiedTime": 1627350589110,
+    "changeTime": 1627350589110,
+    "contentHash": "8dc7623de21501a8b44bc8a03738f69a050e46b5",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\nested": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\nested",
+    "isDirectory": true,
+    "modifiedTime": 1627348964210,
+    "changeTime": 1627348964210,
+    "contentHash": "f3c1b2ff03fa2a46058340e23e263a1de950a848",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\nested\\nested.css": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\nested\\nested.css",
+    "size": 282,
+    "modifiedTime": 1627348512264,
+    "changeTime": 1627348512264,
+    "contentHash": "8d5329389f3cdac28446a9239dc048631a80948b",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\nested\\nested.html": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\nested\\nested.html",
+    "size": 5281,
+    "modifiedTime": 1627349169522,
+    "changeTime": 1627349169522,
+    "contentHash": "ce2d8cdb581f813af38e2b8074b0235f69bf4edd",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\nested\\nested.js": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\nested\\nested.js",
+    "size": 119,
+    "modifiedTime": 1627348512314,
+    "changeTime": 1627348512314,
+    "contentHash": "5aee0afda417875864bacb020bd1d21d951c3531",
+    "state": "n",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\objects": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\objects",
+    "isDirectory": true,
+    "modifiedTime": 1627346891667,
+    "changeTime": 1627346891667,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\permissionsets": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\permissionsets",
+    "isDirectory": true,
+    "modifiedTime": 1627346891667,
+    "changeTime": 1627346891667,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\staticresources": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\staticresources",
+    "isDirectory": true,
+    "modifiedTime": 1627346891667,
+    "changeTime": 1627346891667,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\tabs": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\tabs",
+    "isDirectory": true,
+    "modifiedTime": 1627346891668,
+    "changeTime": 1627346891668,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\triggers": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\triggers",
+    "isDirectory": true,
+    "modifiedTime": 1627346891668,
+    "changeTime": 1627346891668,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject",
+    "isDirectory": true,
+    "modifiedTime": 1627418688991,
+    "changeTime": 1627418688991,
+    "contentHash": "1e987d23dd2f25523c6bedfa81e71f94a14f5db3",
+    "state": "u",
+    "isWorkspace": true,
+    "deferContentHash": true
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\ifElseExample": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\ifElseExample",
+    "isDirectory": true,
+    "modifiedTime": 1627429798248,
+    "changeTime": 1627429798248,
+    "contentHash": "0b5215851471e42efb0e3896d60f4935ab9d96f2",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\ifElseExample\\ifElseExample.html": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\ifElseExample\\ifElseExample.html",
+    "size": 116,
+    "modifiedTime": 1627430969770,
+    "changeTime": 1627430969770,
+    "contentHash": "ce1b45941850feb38da1b9108e3d4149748e4fc2",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\ifElseExample\\ifElseExample.js": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\ifElseExample\\ifElseExample.js",
+    "size": 125,
+    "modifiedTime": 1627430013502,
+    "changeTime": 1627430013502,
+    "contentHash": "8cf0ab0d456729270a6b502b09e3ba84c76507ef",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\ifElseExample\\ifElseExample.js-meta.xml": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\ifElseExample\\ifElseExample.js-meta.xml",
+    "size": 372,
+    "modifiedTime": 1627430122810,
+    "changeTime": 1627430122810,
+    "contentHash": "7f7c333fba3f40f24c613158883c228b5704b40a",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\",
+    "isDirectory": true,
+    "modifiedTime": 1627346891660,
+    "changeTime": 1627346891660,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "u",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\employeeList": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\employeeList",
+    "isDirectory": true,
+    "modifiedTime": 1627431187622,
+    "changeTime": 1627431187622,
+    "contentHash": "e1fce010b60128d79d2d398e250a8a51f0c9b09a",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\employeeList\\employeeList.html": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\employeeList\\employeeList.html",
+    "size": 976,
+    "modifiedTime": 1627436734232,
+    "changeTime": 1627436734232,
+    "contentHash": "25e7067728cfa55728281c0e15320d821d593289",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\employeeList\\employeeList.js": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\employeeList\\employeeList.js",
+    "size": 496,
+    "modifiedTime": 1627435814931,
+    "changeTime": 1627435814931,
+    "contentHash": "722d4df479cbfdbad269912cb3683ecd4c1a5a2f",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\employeeList\\employeeList.js-meta.xml": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\employeeList\\employeeList.js-meta.xml",
+    "size": 372,
+    "modifiedTime": 1627435810388,
+    "changeTime": 1627435810388,
+    "contentHash": "7f7c333fba3f40f24c613158883c228b5704b40a",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\helloForEach": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\helloForEach",
+    "isDirectory": true,
+    "modifiedTime": 1627441224960,
+    "changeTime": 1627441224960,
+    "contentHash": "e35473c54bbe4729170e6faaf398e445ecf065f6",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\helloForEach\\helloForEach.html": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\helloForEach\\helloForEach.html",
+    "size": 321,
+    "modifiedTime": 1627442230228,
+    "changeTime": 1627442230228,
+    "contentHash": "272a161b2e4576939fe0b014e808169fc0912896",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\helloForEach\\helloForEach.js": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\helloForEach\\helloForEach.js",
+    "size": 434,
+    "modifiedTime": 1627442433114,
+    "changeTime": 1627442433114,
+    "contentHash": "d09f10993b2f4bb32a228ffb41195311463b023c",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\helloForEach\\helloForEach.js-meta.xml": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\helloForEach\\helloForEach.js-meta.xml",
+    "size": 372,
+    "modifiedTime": 1627442649273,
+    "changeTime": 1627442649273,
+    "contentHash": "5242d811db32264799d1d75bc09b3d81cd25e83c",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\iteratorList": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\iteratorList",
+    "isDirectory": true,
+    "modifiedTime": 1627444514337,
+    "changeTime": 1627444514337,
+    "contentHash": "c09cdfa792fda3f885beb7d51feb7ff87a342db8",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\iteratorList\\iteratorList.css": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\iteratorList\\iteratorList.css",
+    "size": 144,
+    "modifiedTime": 1627444649784,
+    "changeTime": 1627444649784,
+    "contentHash": "a5f8667eefb0965997bf87fc02833e003e555b04",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\iteratorList\\iteratorList.html": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\iteratorList\\iteratorList.html",
+    "size": 471,
+    "modifiedTime": 1627445531350,
+    "changeTime": 1627445531350,
+    "contentHash": "2419e26e20029cf1451e0870efffbf4fdcf45f16",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\iteratorList\\iteratorList.js": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\iteratorList\\iteratorList.js",
+    "size": 437,
+    "modifiedTime": 1627443907025,
+    "changeTime": 1627443907025,
+    "contentHash": "a94d4a345c28d9bd4126d3a2c70decfd45843f33",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\iteratorList\\iteratorList.js-meta.xml": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\iteratorList\\iteratorList.js-meta.xml",
+    "size": 372,
+    "modifiedTime": 1627443986711,
+    "changeTime": 1627443986711,
+    "contentHash": "7f7c333fba3f40f24c613158883c228b5704b40a",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\simpleInterestCalculator": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\simpleInterestCalculator",
+    "isDirectory": true,
+    "modifiedTime": 1627446824165,
+    "changeTime": 1627446824165,
+    "contentHash": "beaf05708dd20baf1f8098c0dc9b0afec52339c7",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\simpleInterestCalculator\\simpleInterestCalculator.html": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\simpleInterestCalculator\\simpleInterestCalculator.html",
+    "size": 1305,
+    "modifiedTime": 1627447768568,
+    "changeTime": 1627447768568,
+    "contentHash": "045d3c55a31c439aca5734d9afc69c9b4a5fef3a",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\simpleInterestCalculator\\simpleInterestCalculator.js": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\simpleInterestCalculator\\simpleInterestCalculator.js",
+    "size": 647,
+    "modifiedTime": 1627450077980,
+    "changeTime": 1627450077980,
+    "contentHash": "ab5f19eab8439764b9a66a7478ee12e1cc5ed3fe",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\simpleInterestCalculator\\simpleInterestCalculator.js-meta.xml": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\simpleInterestCalculator\\simpleInterestCalculator.js-meta.xml",
+    "size": 381,
+    "modifiedTime": 1627449387372,
+    "changeTime": 1627449387372,
+    "contentHash": "81e4606d92e279f482fed8af0d512bbc32184bc9",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\contactCreator": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\contactCreator",
+    "isDirectory": true,
+    "modifiedTime": 1627457096773,
+    "changeTime": 1627457096773,
+    "contentHash": "8a36d82c155ada1b8166f9fdaa2a4c8342416d77",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\classes\\insertContactApexWeb.cls": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\classes\\insertContactApexWeb.cls",
+    "size": 355,
+    "modifiedTime": 1627462895484,
+    "changeTime": 1627462895484,
+    "contentHash": "5b8addc7e0db8adb48c065a7566132552dcf7e9f",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\classes\\insertContactApexWeb.cls-meta.xml": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\classes\\insertContactApexWeb.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1627462854086,
+    "changeTime": 1627462854086,
+    "contentHash": "d47fd6b1e2658ef3bf1ffd156c6bbfef9f9f3172",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\contactCreator\\contactCreator.html": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\contactCreator\\contactCreator.html",
+    "size": 240,
+    "modifiedTime": 1627464684474,
+    "changeTime": 1627464684474,
+    "contentHash": "0021aa72e013b13974bf4218f3014894e213fc36",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\contactCreator\\contactCreator.js": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\contactCreator\\contactCreator.js",
+    "size": 694,
+    "modifiedTime": 1627465321239,
+    "changeTime": 1627465321239,
+    "contentHash": "6357ffdd8986b16290e083bbbaf473e2b959aaf9",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\contactCreator\\contactCreator.js-meta.xml": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\contactCreator\\contactCreator.js-meta.xml",
+    "size": 372,
+    "modifiedTime": 1627462988118,
+    "changeTime": 1627462988118,
+    "contentHash": "c8f6db18e28dabcd366aeb329923e7d59f435fa7",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\displayContact": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\displayContact",
+    "isDirectory": true,
+    "modifiedTime": 1627466273924,
+    "changeTime": 1627466273924,
+    "contentHash": "7a16e3ce18866e30bedec9fdfb87ba80da8438c1",
+    "state": "u",
+    "package": "force-app"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\classes\\getContact.cls": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\classes\\getContact.cls",
+    "size": 248,
+    "modifiedTime": 1627470657060,
+    "changeTime": 1627470657060,
+    "contentHash": "0dfe349d3c4c97965e95a629c5bb3cc1de231652",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass",
+    "deferContentHash": true
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\classes\\getContact.cls-meta.xml": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\classes\\getContact.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1627465877030,
+    "changeTime": 1627465877030,
+    "contentHash": "d47fd6b1e2658ef3bf1ffd156c6bbfef9f9f3172",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\displayContact\\displayContact.html": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\displayContact\\displayContact.html",
+    "size": 185,
+    "modifiedTime": 1627471211646,
+    "changeTime": 1627471211646,
+    "contentHash": "a6ee1f0c1c0a89e7e048164fb6adcc9c1bbe7281",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\displayContact\\displayContact.js": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\displayContact\\displayContact.js",
+    "size": 892,
+    "modifiedTime": 1627471275530,
+    "changeTime": 1627471275530,
+    "contentHash": "0b245b11c45f375ccedeb13c6e1244a3da5d2033",
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\displayContact\\displayContact.js-meta.xml": {
+    "sourcePath": "C:\\Testing\\myFirstLWCProject\\force-app\\main\\default\\lwc\\displayContact\\displayContact.js-meta.xml",
+    "size": 372,
+    "modifiedTime": 1627467086630,
+    "changeTime": 1627467086630,
+    "contentHash": "6cd24b5d66a07de5778fe8aecdd5a1c70519ffce",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "LightningComponentBundle"
+  }
+}
